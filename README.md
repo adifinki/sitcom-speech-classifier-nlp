@@ -1,0 +1,1 @@
+The objective is to develop a deep learning model that can differentiate between lines spoken in Seinfeld and Friends episodes, using a dataset that includes scripts from both shows. The dataset comprises five columns: Dialogue, Character, Episode, Show, and Dialogue_length, but only the 'Dialogue' and 'Show' columns were used for training.
